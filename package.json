@@ -1,0 +1,31 @@
+{
+  "name": "vue-devtools-editor-url",
+  "version": "1.0.0",
+  "description": "The plugin for vue-devtools to modify the open-in-editor url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pekonchan/vue-devtools-editor-url.git"
+  },
+  "keywords": [
+    "vue",
+    "devtools",
+    "open-in-editor",
+    "launch-editor"
+  ],
+  "author": "pekonchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pekonchan/vue-devtools-editor-url/issues"
+  },
+  "homepage": "https://github.com/pekonchan/vue-devtools-editor-url#readme",
+  "dependencies": {
+    "@vue/devtools-api": "^7.6.2"
+  },
+  "devDependencies": {
+    "rollup": "^4.24.3"
+  }
+}
