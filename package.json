@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "The plugin for vue-devtools to modify the open-in-editor url",
   "main": "index.js",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rollup -c"
   },
   "repository": {
     "type": "git",
