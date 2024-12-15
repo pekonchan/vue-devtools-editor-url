@@ -18,7 +18,9 @@
     "vue",
     "devtools",
     "open-in-editor",
-    "launch-editor"
+    "launch-editor",
+    "launch-editor-middleware",
+    "url"
   ],
   "author": "pekonchan",
   "license": "ISC",
@@ -27,7 +29,7 @@
   },
   "homepage": "https://github.com/pekonchan/vue-devtools-editor-url#readme",
   "dependencies": {
-    "@vue/devtools-api": "^7.6.2"
+    "@vue/devtools-api": "6.0.0-beta.11"
   },
   "devDependencies": {
     "rollup": "^4.24.3"
