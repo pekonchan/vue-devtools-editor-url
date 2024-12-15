@@ -1,4 +1,4 @@
-[中文文档](https://github.com/pekonchan/vue-devtools-editor-url/README_zh.md)
+[中文文档](https://github.com/pekonchan/vue-devtools-editor-url/blob/main/README_zh.md)
 
 # vue-devtools-editor-url
 This is a vue-devtools plugin that can be used to change the path of the local file opened by clicking on the devtool panel.
